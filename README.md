@@ -1,6 +1,6 @@
 # House Prices Prediction
 
-A complete machine learning solution for predicting residential home sale prices in Ames, Iowa using advanced regression techniques. This project demonstrates production-ready code for data preprocessing, feature engineering, model training, and evaluation.
+A complete machine learning solution for predicting residential home sale prices using advanced regression techniques. This project demonstrates production-ready code for data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
