@@ -364,5 +364,5 @@ ColumnTransformer([
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: Ames Housing dataset by Dean De Cock
-- **Use Case**: Modern alternative to Boston Housing dataset
+- **Dataset**: Ames Housing dataset compiled by Dean De Cock for data science education
+- **Use Case**: Educational tool for learning advanced regression techniques
